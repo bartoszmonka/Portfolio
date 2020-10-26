@@ -6,7 +6,6 @@ Certified Software Tester with over 3 years of commercial experience in banking 
 
 ## Tech Stack
 
-* ISTQB: Foundation Level
 * Databases: Oracle Database
 * Operating Systems: Windows, Linux, OS X, Android
 * Languages: Java (Test Automation)
