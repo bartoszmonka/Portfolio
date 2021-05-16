@@ -7,9 +7,9 @@ Certified Software Tester with over 3 years of commercial experience in banking 
 ## Tech Stack
 
 * Databases: Oracle Database
-* Operating Systems: Windows, Linux, OS X, Android
+* Operating Systems: Windows, Linux, macOS, iOS, Android
 * Languages: Java (Test Automation)
-* Testing: Selenium, TestNG, JUnit, CSS Selectors, XPATH
+* Testing: Selenium, TestNG, JUnit, CSS Selectors, XPATH, xCode, Android Studio
 * Version Control Systems: Git, SVN
 * CI: Jenkins
 * Other tools: JIRA, Trello, Maven
