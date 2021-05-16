@@ -2,7 +2,8 @@
 
 ## About me
 
-Certified Software Tester with over 3 years of commercial experience in banking application testing both frontend. Last 3 years I spent in five members development team in project to settle invoices for financial department in Bank. I'm oriented for further development as Test Automation Developer.
+Certified Software Tester with over 4 years of commercial experience in banking application testing both frontend. 3 years I spent in five members development team in project to settle invoices for financial department in Bank. Currently I am testing mobile applications (iOS, Android) in Viessmann Research & Development Center. 
+I'm oriented for further development as Test Automation Developer (web and mobile applications).
 
 ## Tech Stack
 
