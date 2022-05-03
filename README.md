@@ -2,18 +2,18 @@
 
 ## About me
 
-Certified Software Tester with over 4 years of commercial experience in banking application testing both frontend. 3 years I spent in five members development team in project to settle invoices for financial department in Bank. Currently I am testing mobile applications (iOS, Android) in Viessmann Research & Development Center. 
-I'm oriented for further development as Test Automation Developer (web and mobile applications).
+Certified Software Tester with over 5 years of commercial experience in banking application testing both frontend. 3 years I spent in five members development team in project to settle invoices for financial department in Bank. Currently, I am SOFTWARE QUALITY ASSURANCE ENGINEER and automating Android functional tests in Viessmann Research & Development Center. 
+I'm oriented for further development as QA Engineer\Test Automation Developer (web and mobile applications).
 
 ## Tech Stack
 
 * Databases: Oracle Database
 * Operating Systems: Windows, Linux, macOS, iOS, Android
-* Languages: Java (Test Automation)
-* Testing: Selenium, TestNG, JUnit, CSS Selectors, XPATH, xCode, Android Studio
+* Languages: Java, Kotlin
+* Testing: Selenium, Kaspresso, Espresso, TestNG, JUnit, CSS Selectors, XPATH, xCode, Android Studio
 * Version Control Systems: Git, SVN
-* CI: Jenkins
-* Other tools: JIRA, Trello, Maven
+* CI: Jenkins, Team City
+* Other tools: Jira, Confluence, Trello, Maven, Grandle
 
 ## Courses
 
