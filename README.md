@@ -1,9 +1,7 @@
 # Portfolio
 
 ## About me
-
-Certified Software Tester with over 6 years of commercial experience in banking application testing both frontend. 3 years I spent in five members development team in project to settle invoices for financial department in Bank. Currently, I am SOFTWARE QUALITY ASSURANCE ENGINEER and automating Android functional tests in Viessmann Research & Development Center. 
-I'm oriented for further development as QA Engineer\Test Automation Developer (web and mobile applications).
+I am a certified software tester with over 6 years of commercial experience in banking application testing, both on the frontend. I spent 3 years in a five-member development team on a project to settle invoices for the financial department in a bank. Currently, I am a software quality assurance engineer and I am automating Android functional tests at the Viessmann Research & Development Center. I'm oriented for further development as QA Engineer\Test Automation Developer (web and mobile applications).
 
 ## Tech Stack
 
@@ -11,7 +9,7 @@ I'm oriented for further development as QA Engineer\Test Automation Developer (w
 * Operating Systems: Windows, Linux, macOS, iOS, Android
 * Languages: Java, Kotlin
 * Testing: Selenium, Kaspresso, Espresso, TestNG, JUnit, CSS Selectors, XPATH, xCode, Android Studio
-* Version Control Systems: Git, SVN
+* Version Control Systems: Github, Bitbucket
 * CI: Jenkins, Team City
 * Other tools: Jira, Confluence, Trello, Maven, Grandle
 
