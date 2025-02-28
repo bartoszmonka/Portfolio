@@ -1,7 +1,11 @@
 # Portfolio
 
 ## About me
-I am a certified software tester with over 7 years of commercial experience in banking application testing, both on the frontend. I spent 3 years in a five-member development team on a project to settle invoices for the financial department in a bank. Furthermore, my tenure at the Viessmann Research & Development Center has significantly enriched my professional journey. Over a period of 2 years and 3 months, I worked as Software Quality Assurance Engineer, and I am automating Android functional tests. In my current capacity as a Software Quality Assurance Engineer at eSky Group, a venture I am undertaking independently, I have leveraged my expertise in manual mobile app testing for both Android and iOS platforms. My responsibilities encompass identifying, meticulously analyzing, and comprehensively documenting defects using Jira. Additionally, I have conducted backend testing to ensure the robustness and reliability of applications. This experience has solidified my skill set in maintaining the quality of applications, with a focus on mobile app testing
+I am a certified software tester with over 8 years of commercial experience in software quality assurance, specializing in manual and automated testing for banking and financial applications as well as mobile and web solutions.
+
+I have spent 3 years as part of a five-member development team, working on an invoice settlement system for a bank’s financial department. Additionally, my 2 years and 3 months at the Viessmann Research & Development Center have significantly enriched my expertise, particularly in automating functional tests for Android applications.
+
+In my previous role at eSky Group, I focused on manual mobile app testing for both Android and iOS, defect tracking in Jira, and backend testing to ensure system stability and performance. Currently, at PayEye, I continue to refine my skills in mobile testing, test automation, and backend validation, working in an Agile environment.
 
 I'm oriented for further development as QA Engineer\Test Automation Developer (web and mobile applications).
 
